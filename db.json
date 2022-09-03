@@ -1,0 +1,39 @@
+{
+    "sushis": [
+        {
+            "id": 1,
+            "name": "California Roll",
+            "price": 4,
+            "description": "Crab, avocado, cucumber, and masago.",
+            "image": "./images/sushis/sushi1.png"
+        },
+        {
+            "id": 2,
+            "name": "Spicy Tuna Roll",
+            "price": 5,
+            "description": "Spicy tuna, avocado, and cucumber.",
+            "image": "./images/sushis/sushi2.png"
+        },
+        {
+            "id": 3,
+            "name": "Spicy Salmon Roll",
+            "price": 7,
+            "description": "Spicy salmon, avocado, and cucumber.",
+            "image": "./images/sushis/sushi3.png"
+        },
+        {
+            "id": 4,
+            "name": "Spicy Yellowtail Roll",
+            "price": 4,
+            "description": "Spicy yellowtail, avocado, and cucumber.",
+            "image": "./images/sushis/sushi4.png"
+        },
+        {
+            "id": 5,
+            "name": "Spicy Tuna Roll",
+            "price": 6,
+            "description": "Spicy tuna, avocado, and cucumber.",
+            "image": "./images/sushis/sushi5.png"
+        }
+    ]
+}
